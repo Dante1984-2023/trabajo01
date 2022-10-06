@@ -1,0 +1,67 @@
+
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+} 
+
+
+.container img{  
+    position: absolute;
+    
+
+ 
+}
+
+
+
+.imagen{
+
+    position: absolute;
+    width: 100%;
+    height: 100%;
+
+}
+
+
+
+.container video{
+   position: relative; 
+   
+    margin-top: 20px;
+    margin-left: 630px;
+    margin-right: 630px;
+    
+    width: 290px;
+    height: 560px;
+    border-radius: 20px;
+    border: solid black;
+   padding-top: 50px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    background-color: rgb(143, 64, 92);
+    
+}
+.titulo{
+    position: absolute;
+    margin: auto;
+    top: 15px;
+    right:730px;
+    color: white;
+    text-align: center;
+}
+.footer{
+    position: relative;
+    width: 100%;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 30px;
+    margin-left: 0px;
+    
+    background-color: rgb(143, 64, 92);
+    text-align:center;
+    
+    color: white;
+    
+}
+

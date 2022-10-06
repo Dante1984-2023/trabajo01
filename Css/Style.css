@@ -1,0 +1,111 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}  
+
+header{
+    background-color: red; 
+    color: white;
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-start;
+      
+}
+
+.navbar ul{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+          
+}
+
+.botones{
+    margin-left:330px;
+    text-decoration: none;
+        
+}
+
+
+.input{
+    color: white;   
+    display: flex;
+    margin-bottom: 10px;
+    margin-left: 10px;   
+    align-items: center;
+   
+}
+.WEB{
+    padding-right: 20px;
+}
+li a{
+    text-decoration: none;
+    color: white;
+}
+
+.home{
+ margin:  10px;
+ border-radius: 20px;
+ 
+padding: 15px;
+background-color: rgb(233, 150, 150);
+
+}
+.menu{
+margin: 10px;
+border-radius: 20px;
+padding: 15px;
+background-color: rgb(233, 150, 150);
+
+}
+.contenido{
+margin: 10px;
+border-radius: 20px;
+padding: 15px;
+background-color: rgb(233, 150, 150);
+}
+.mail{
+ 
+    padding: 50px;
+    background: black;
+}
+footer{
+    background: black;
+}
+ /*   
+
+.buttonuno{
+    margin: 10px;
+    border-radius: 100px;
+}
+.buttondos{
+    margin: 10px;
+}
+.buttontres{
+    margin: 10px;
+}
+*/
+
+.titulo{
+    background: black;
+    text-align: center;
+    color: white;
+    
+}
+body{
+    background-color: red;
+}
+article{
+    text-align: center;
+    background-color: red;
+    color: aliceblue;
+}
+.barra{
+    background: red;
+    padding: 20px;
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+}
